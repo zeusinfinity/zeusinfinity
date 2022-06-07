@@ -1,0 +1,39 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Library for managing addresses assigned to a Role.",
+			"methods": {},
+			"title": "Roles"
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ZeusInfinity.sol": "Roles"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ZeusInfinity.sol": {
+			"keccak256": "0xbee9381dd2a264f71acc8c22eb99477ca489c81ade5767bcf143d7f968ac3011",
+			"urls": [
+				"bzz-raw://48fc0e908b04f16f545ac23987502ec0aa3e3da66fadb6166d35e2081524f20a",
+				"dweb:/ipfs/QmbpQPg3jaV5oGwvEX4kdemvU8jBsuSg5Bq3aQzQsJuk8L"
+			]
+		}
+	},
+	"version": 1
+}
